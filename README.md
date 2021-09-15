@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://twitter.com/siddheshdabho12" target="blank"><img src="https://img.shields.io/twitter/follow/siddheshdabho12?logo=twitter&style=for-the-badge" alt="siddheshdabho12" /></a> </p>
 
 - 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently pursuing **BE in Information Technology from Goa College of Engineering**
 
-- 📫 How to reach me **https://www.linkedin.com/in/siddhesh-dabholkar-685036194**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
